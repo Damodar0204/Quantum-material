@@ -1,2 +1,1 @@
-# my-first-repo
-my first GitHub repo
+# ibm notes on quantum computing
