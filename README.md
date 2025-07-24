@@ -1,1 +1,1 @@
-# ibm notes on quantum computing
+## Ibm notes on *Quantum Computing*
